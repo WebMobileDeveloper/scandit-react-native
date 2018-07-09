@@ -1,0 +1,69 @@
+{
+  "_from": "git+https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+  "_id": "scandit-react-native@5.9.0-SNAPSHOT",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/scandit-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "scandit-react-native@https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+    "name": "scandit-react-native",
+    "escapedName": "scandit-react-native",
+    "rawSpec": "https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+    "saveSpec": "git+https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+    "fetchSpec": "https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Scandit/barcodescanner-sdk-react-native.git#08b48c59ce48d5424fe2a4cfc6432e8bd17c14a9",
+  "_spec": "scandit-react-native@https://github.com/Scandit/barcodescanner-sdk-react-native.git",
+  "_where": "/Users/shanbo/Desktop/Dean/carster-react-native",
+  "author": {
+    "name": "Scandit",
+    "email": "info@scandit.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Scandit/barcodescanner-sdk-react-native/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Scandit Barcode Scanner SDK for react native",
+  "homepage": "https://scandit.com",
+  "keywords": [
+    "scandit",
+    "barcode",
+    "scan",
+    "scanning",
+    "code",
+    "react",
+    "native",
+    "react-native",
+    "sdk"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "scandit-react-native",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react": ">16.0.0",
+    "react-native": ">0.47.0",
+    "prop-types": ">15.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scandit/barcodescanner-sdk-react-native.git"
+  },
+  "rnpm": {
+    "android": {
+      "sourceDir": "./android"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "5.9.0-SNAPSHOT"
+}
